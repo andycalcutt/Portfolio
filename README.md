@@ -17,7 +17,7 @@ Bobloblaw
 Bobloblaw
 
 - ### Certifications
-  - [DataCamp SQL Accociate] (https://www.datacamp.com/certificate/SQA0014932269995)
+  - [DataCamp SQL Accociate](https://www.datacamp.com/certificate/SQA0014932269995)
   - Bobloblaw
 
 
