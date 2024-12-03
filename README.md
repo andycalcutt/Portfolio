@@ -16,7 +16,7 @@ Repository containing portfolio of data science projects and links to certificat
 
 - ### Certifications
   - [DataCamp SQL Accociate](https://www.datacamp.com/certificate/SQA0014932269995)
-  - Bobloblaw
+  - [DataCamp Python Data Associate](https://www.datacamp.com/certificate/PDA0012698762177)
 
 
 
