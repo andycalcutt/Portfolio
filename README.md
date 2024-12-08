@@ -12,7 +12,7 @@ Repository containing portfolio of data science projects and links to certificat
   - [Bobloblaw](link): Summary
 
 - ### Simulations
-  - [ConnectX](link): Summary
+  - [ConnectX]((https://github.com/andycalcutt/ConnectX)): Summary
 
 - ### Certifications
   - [DataCamp SQL Accociate](https://www.datacamp.com/certificate/SQA0014932269995)
