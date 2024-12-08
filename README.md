@@ -12,7 +12,7 @@ Repository containing portfolio of data science projects and links to certificat
   - [Bobloblaw](link): Summary
 
 - ### Simulations
-  - [ConnectX](https://github.com/andycalcutt/ConnectX): Summary
+  - [ConnectX](https://github.com/andycalcutt/ConnectX): Bot utilising a minimax algorithm to play games of ConnectX which has the same principles as connect4 but the grid and in a row dimensions can be variable
 
 - ### Certifications
   - [DataCamp SQL Accociate](https://www.datacamp.com/certificate/SQA0014932269995)
