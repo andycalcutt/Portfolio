@@ -1,6 +1,6 @@
 # Portfolio
 
-Repository containing portfolio of data science projects and links to certifications gained.
+Repository containing portfolio of example data science and analysis projects and links to certifications.
 
 ## Contents
 
