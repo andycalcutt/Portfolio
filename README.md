@@ -5,7 +5,7 @@ Repository containing portfolio of example data science and analysis projects an
 ## Contents
 
 - ### Machine Learning
-  - [Titantic](link): Summary
+  - [Titantic](link): Supervised Learning to predict survivors of the titanic based on features provided including age, gender, class
 
 - ### Data Analysis
 
