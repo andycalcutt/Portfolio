@@ -12,10 +12,8 @@ Repository containing portfolio of example data science projects and links to ce
 
 - ### Simulations
   - [ConnectX](https://github.com/andycalcutt/ConnectX): Bot utilising a minimax algorithm to play games of ConnectX which has the same principles as connect4 but the grid and in a row dimensions can be variable
-  - [Chess](link): Bot utilising xyz to play games of chess
- 
-- ### Object Orientated Programming
 
+- ### Object Orientated Programming
   - [Operations Monte Carlo Simulation](link): Basic implementation of a monte carlo simulation to forecast completion timeframes of an operations process
 
 - ### Certifications
