@@ -16,9 +16,4 @@ Repository containing portfolio of example data science projects and links to ce
 - ### Object Orientated Programming
   - [Operations Monte Carlo Simulation](link): Basic implementation of a monte carlo simulation to forecast completion timeframes of an operations process
 
-- ### Certifications
-  - [DataCamp SQL Accociate](https://www.datacamp.com/certificate/SQA0014932269995)
-  - [DataCamp Python Data Associate](https://www.datacamp.com/certificate/PDA0012698762177)
-  - [DataCamp Data Scientist Associate](https://www.datacamp.com/certificate/DSA0015839710051)
-
 
