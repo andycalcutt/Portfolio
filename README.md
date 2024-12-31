@@ -7,7 +7,7 @@ Repository containing portfolio of example data science projects and links to ce
 - ### Data Science (including data analysis)
   - [NLP: Chat GPT Reviews](link): Natural language processing analysis and predictive modelling
   - [Time Series Forecasting: Store Sales](link): Time series analysis and forecasting of store sales utiling SARIMA with a conbination of supervised learning
-  - [Segmentation: Credit Card Customers](link): segmenting of customers based on behaviours and characteristics
+  - [Segmentation: Credit Card Customers](https://github.com/andycalcutt/Credit_Card_Customers): segmenting of customers based on behaviours and characteristics
   - [Classification: Titantic Survivors](https://github.com/andycalcutt/Titanic_Survivors): Supervised Learning to predict survivors of the titanic based on features provided including age, gender, class
 
 - ### Simulations
