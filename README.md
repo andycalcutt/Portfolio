@@ -4,7 +4,7 @@ Repository containing portfolio of example data science projects and links to ce
 
 ## Contents
 
-- ### Data Science (including explority data analysis)
+- ### Data Science (including data analysis)
   - [NLP: Chat GPT Reviews](link): Natural language processing analysis and predictive modelling
   - [Time Series Forecasting: Store Sales](link): Time series analysis and forecasting of store sales utiling SARIMA with a conbination of supervised learning
   - [Segmentation: Credit Card Customers](link): segmenting of customers based on behaviours and characteristics
