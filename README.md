@@ -1,6 +1,6 @@
 # Portfolio
 
-Repository containing portfolio of example data science projects and links to certifications.
+Repository containing portfolio of example data science projects using Python and Jupyter Notebooks.
 
 ## Contents
 
